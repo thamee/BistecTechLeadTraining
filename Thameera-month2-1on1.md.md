@@ -75,10 +75,11 @@ Since Alex is a high performer, also briefly touch on the overall project:
 
 ---
 
-#### Goal of These 1:1s
+#### Action Items
 - Help Alex transition from individual contributor to leader
 - Build confidence in ownership and decision-making
 - Prepare him for a future Tech Lead role
+ 
 
 
 ### Jordan (Mid-Level – Developing)
@@ -121,11 +122,15 @@ Acknowledge his effort so far:
 
 ---
 
-#### Goal of These 1:1s
+#### Action
 - Help Jordan gain confidence in tackling complex tasks  
 - Provide actionable guidance and support  
 - Encourage proactive learning and collaboration  
 - Build a clear path for improvement and growth
+
+
+#### Follow ups
+Monthly Sync up on his progress 
 
 ### Riley (Underperforming - Personal Issues)
 
@@ -167,36 +172,12 @@ Acknowledge past contributions to build confidence:
 
 ---
 
-#### Goal of These 1:1s
+#### Action
 - Provide empathy and understanding first  
 - Stabilize performance while addressing personal challenges  
 - Rebuild confidence and focus  
 - Set a clear path for gradual improvement and support
-## 1:1 Notes Example
 
-### Example: Alex - Week 1
+#### Follow Ups 
+Montly Sync Up
 
-**Date:** [Date]
-
-**Duration:** 30 min
-
-**Their Topics:**
-
-- Wants to lead database migration project
-- Frustrated with lack of promotion timeline
-
-**Discussion:**
-
-- Discussed tech lead competencies framework
-- Agreed they'll lead the cache refactoring
-- Created plan for stakeholder visibility
-
-**Action Items:**
-
-- [ ] Me: Share tech lead competency doc
-- [ ] Alex: Draft cache refactoring proposal
-- [ ] Schedule: Intro to Product team
-
-**Follow-up:**
-
-- Revisit promotion timeline in 6 weeks
